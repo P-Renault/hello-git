@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/login-form-18/login-form-18"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "login-form-18"
+	}
+}
